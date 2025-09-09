@@ -1,0 +1,12 @@
+[Desktop Entry]
+version=1.0
+Name=URServer
+Comment=URServer
+Exec=/home/jjst/JJURServer/bin/JJURServerTest 
+Icon=/home/jjst/JJURServer/Icon/DesktopIcon.png
+Terminal=false
+StartupNotify=false
+Type=Application
+Categories=Application
+
+Name[en_US]=URServer.desktop

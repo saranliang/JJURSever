@@ -1,0 +1,6 @@
+#pragma once
+ 
+#include <QString>
+ 
+const QString GIT_HASH = "@GIT_HASH@";
+const QString GIT_BRANCH = "@GIT_BRANCH@";

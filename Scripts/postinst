@@ -1,0 +1,6 @@
+#!/bin/bash
+chmod +x /home/jjst/JJURServer/bin/jjur_server_test
+sudo chown -R jjst /home/jjst/Desktop/URServer.desktop
+sudo chown -R jjst /home/jjst/JJURServer
+sudo chown -R jjst /home/jjst/Qt_UR
+sudo ldconfig
